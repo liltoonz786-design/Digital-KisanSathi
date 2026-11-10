@@ -1,0 +1,11 @@
+{
+  "name": "Digital Kisan Sathi",
+  "description": "Premium Agritech platform for Indian & Punjab farmers: AI Voice Assistant, Crop Doctor, Mandi Rates, Product Price Checker, Government Schemes, and Agri Calculators.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
